@@ -1,5 +1,7 @@
+import {Title} from './styles';
+
 export function Teste(){
     return(
-        <h1>Componente de Teste</h1>
+        <Title>Componente de Teste</Title>
     )
 }
